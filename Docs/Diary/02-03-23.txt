@@ -1,0 +1,1 @@
+Implemented the calculation of the hidden layer, Experimented with different output layers, Connected up the neural network with the actors. Encountered a bug with the hidden layer causing crashed so had to uncomment adding in new nodes to the hidden layer.

@@ -1,0 +1,9 @@
+Genome Created : True
+Genome Fitness Add : True
+Genome Mutation Add Connection : True
+Genome Mutation Enable/Disable Connection : True
+Genome Mutation Weight Change : True
+Genome Mutation Add Hidden Node : True
+Genome Save/Load Connections : True
+Genome Save/Load Nodes : True
+Genome Max Node : True

@@ -1,0 +1,1 @@
+More research was conducted into NEAT evolutionary algorithm. Basic simulation enviroment has been created, round system implemented, UI Elements added, Started implementing actor senses will need to implement pheromone senses. Actor general movement implemented, including a random movement system.

@@ -1,0 +1,4 @@
+Genome Created : True
+Genome Fitness Add : True
+Genome Save/Load Connections : True
+Genome Save/Load Nodes : True

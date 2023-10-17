@@ -1,0 +1,1 @@
+Implemented speciation with genome crossover to represent the new species I added in the functionality of a colour system and size system, these are currently purely cosmetic. With crossover implemented I included a new interaction of having the genomes crossover when passing eachother to include randomness. Sprites were also included in the current build.
